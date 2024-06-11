@@ -16,5 +16,4 @@ Stopwatch made using **HTML**, **CSS** and **JavaScript**
 - And has a lap-record 
 
 
-https://github.com/Kishalay15/PRODIGY_WD_02/assets/78071856/cf580fd4-573f-4bd3-9770-49fd12249968
 
